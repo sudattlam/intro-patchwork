@@ -3,7 +3,7 @@ layout: slide
 title: "This is my funny caption"
 ---
 
-Caption here
+Woohoo!! I am learning how to use Git and GitHub
 
-![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+![Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
 {: .center}
